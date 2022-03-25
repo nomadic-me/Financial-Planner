@@ -11,9 +11,9 @@ Challenge / Project from Fintech Bootcamp for APIs Week (Week 5)
 | Thirty Years Retirement Option  | Ten Years Retirement Option  |  Five Years Retirement Option |
 |---|---|---|
 | Monte Carlo Simulation: 30 years |  Monte Carlo Simulation: 10 years |   Monte Carlo Simulation: 5 years|
-| ![Thirty Years Retirement Option](MC_thirtyyear_sim_plot.png)   | ![Ten Years Retirement Option](MC_tenyear_sim_plot.png)  |  ![Five Years Retirement Option](MC_fiveyear_sim_plot.png) |
+| ![Thirty Years Retirement Option](Images/MC_thirtyyear_sim_plot.png)   | ![Ten Years Retirement Option](Images/MC_tenyear_sim_plot.png)  |  ![Five Years Retirement Option](Images/MC_fiveyear_sim_plot.png) |
 | Monte Carlo Distribution: 30 years  |  Monte Carlo Distribution: 10 years |   Monte Carlo Distribution: 5 years|
-| ![Thirty Years Retirement Option](MC_thirtyyear_dist_plot.png)   | ![Ten Years Retirement Option](MC_tenyear_dist_plot.png)  |  ![Five Years Retirement Option](MC_fiveyear_dist_plot.png) |
+| ![Thirty Years Retirement Option](Images/MC_thirtyyear_dist_plot.png)   | ![Ten Years Retirement Option](Images/MC_tenyear_dist_plot.png)  |  ![Five Years Retirement Option](Images/MC_fiveyear_dist_plot.png) |
 
 
 ## Instructions
